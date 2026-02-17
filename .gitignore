@@ -1,0 +1,6 @@
+wp-admin/
+wp-includes/
+wp-content/uploads/
+wp-content/ai1wm-backups/
+wp-config.php
+*.log
